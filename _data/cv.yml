@@ -2,96 +2,248 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Aditya Balu
+    - name: Email
+      value: baditya@iastate.edu
+    - name: Phone
+      value: +1-336-446-9900
+    - name: Address
+      value: 3222 Lincoln Way, Unit 9, Ames, IA 50014
+    - name: Website
+      value: https://adityabalu.github.io/
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. in Mechanical & Computer Engineering (Co-major)
+      institution: Iowa State University, Ames, IA
+      year: 2016 - 2020
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "GPA: 3.72/4.00"
+        - "Dissertation: Deep Learning & GPU algorithms for Computer Aided Engineering"
+        - "Advisors: Prof. Adarsh Krishnamurthy & Prof. Soumik Sarkar"
+    
+    - title: Bachelor of Engineering (Hons.) in Mechanical Engineering
+      institution: Birla Institute of Technology and Science, Pilani, Hyderabad, India
+      year: 2010 - 2014
       description:
-        - Description 1.
-        - Description 2.
+        - "GPA: 3.68/4.00 (9.02/10.0)"
 
-- title: Experience
+- title: Professional Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Associate Graduate Lecturer
+      institution: Mechanical Engineering, Iowa State University, Ames, IA
+      year: Aug 2023 - Present
+    
+    - title: Data Scientist
+      institution: Translational AI Center (TrAC), Iowa State University, Ames, IA
+      year: Jan 2022 - Present
+    
+    - title: Postdoctoral Research Associate
+      institution: Iowa State University, Ames, IA
+      year: May 2020 - Dec 2021
+    
+    - title: Machine Learning Co-op
+      institution: Ansys Inc., Pittsburgh, PA
+      year: July 2018 - Dec 2018
+    
+    - title: Design Engineer - I
+      institution: FMC Technologies (now TechnipFMC), Hyderabad, India
+      year: July 2014 - July 2016
+    
+    - title: Summer Intern
+      institution: HBL Power Systems Limited, Hyderabad, India
+      year: May 2012 - July 2012
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Teaching Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Instructor
+      institution: Iowa State University, Ames, IA
+      year: Jan 2022 - Present
+      description:
+        - ME 170 – Engineering Graphics and SolidWorks (Spring 2022)
+        - CPS 364X – Cyber-Physical Systems Applications (Spring 2023)
+    
+    - title: Teaching Assistant
+      institution: Iowa State University, Ames, IA
+      year: Aug 2016 - May 2020
+      description:
+        - ME 592X – Data Analytics and Machine Learning for Cyber-Physical Systems (Spring 2018 & Spring 2019)
+        - ME 570X – Solid Modeling and GPU Computing (Spring 2019)
+        - ME 324 – Manufacturing Processes (Fall 2016)
 
-- title: Honors and Awards
+- title: Awards and Recognitions
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Finalist, NSF NAMRC Bluesky Manufacturing Competition, "Beyond the blueprint: conversational AI as a game-changer in manufacturing" Rutgers University, NJ
+    
+    - year: 2023
       items:
-        - Max Planck Medal
+        - NVIDIA Deep Learning Institute Ambassador, Iowa State University
+        - ACCESS-CI Campus Champion, Iowa State University
+    
+    - year: 2021
+      items:
+        - Finalist, NSF NAMRC Bluesky Manufacturing Competition, "Physics-aware machine learning surrogates for real-time digital twins in additive manufacturing," St. Louis, MO
+    
+    - year: 2019
+      items:
+        - Research excellence award, Iowa State University
 
-- title: Academic Interests
+    - year: 2017
+      items:
+        - Travel grant award for Neural Information Processing Systems (NIPS)
+
+- title: Academic Metrics
+  type: map
+  contents:
+    - name: Google Scholar Citations
+      value: 1422+ (as of Feb 2024)
+    - name: H-Index
+      value: 18
+    - name: Scholar Profile
+      value: https://scholar.google.com/citations?hl=en&user=GNuXi6oAAAAJ
+
+- title: Recent Funding
+  type: time_table
+  contents:
+    - title: "CPS: Medium: Artificial-intelligence-enabled Atomic Force Microscopy"
+      year: Jul 2024 - Jun 2027
+      institution: National Science Foundation (NSF)
+      description:
+        - "Role: Co-PI"
+        - "Co-Investigators: Juan Ren, Adarsh Krishnamurthy, Soumik Sarkar, Aditya Balu"
+        - "Amount: $1,000,000"
+    
+    - title: "Collaborative Research: EAGER: An LLM-Powered Framework for G-Code Comprehension and Retrieval"
+      year: Feb 2024 - Jan 2026
+      institution: National Science Foundation (NSF)
+      description:
+        - "Role: Co-PI"
+        - "Co-Investigators: Adarsh Krishnamurthy, Chinmay Hegde, Aditya Balu, Baskar Ganapathysubramanian"
+        - "Amount: $200,000"
+
+- title: Selected Publications
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - "Saadati, N., Pham, M., Saleem, N., Waite, J.R., Balu, A., Jiang, Z., Hegde, C., & Sarkar, S. (2024). DIMAT: Decentralized Iterative Merging-and-Training for Deep Learning Models. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 27517-27527."
+        - "Arshad, M.A., Jubery, T., Afful, J., Jignasu, A., Balu, A., Ganapathysubramanian, B., Sarkar, S., & Krishnamurthy, A. (2024). Evaluating neural radiance fields (NeRFs) for 3D plant geometry reconstruction in field conditions. Plant Phenomics, 6(0235), 1-17."
+        - "Herron, E., Rade, J., Jignasu, A., Ganapathysubramanian, B., Balu, A., Sarkar, S., & Krishnamurthy, A. (2024). Latent diffusion models for structural component design. Computer-Aided Design, 171, 103707."
+        - "Khara, B., Balu, A., Joshi, A., Sarkar, S., Hegde, C., Krishnamurthy, A., & Ganapathysubramanian, B. (2024). NeuFENet: Neural finite element solutions with theoretical bounds for parametric PDEs. Engineering with Computers, 1-23."
+        - "Khara, B., Herron, E., Jiang, Z., Balu, A., Yang, C.H., Saurabh, K., Jignasu, A., Sarkar, S., Hegde, C., Ganapathysubramanian, B., & Krishnamurthy, A. (2024). Neural PDE solvers for irregular domains. Computer-Aided Design, 172, 103709."
+    
+    - year: 2023
+      items:
+        - "Rade, J., Jignasu, A., Herron, E., Corpuz, A., Ganapathysubramanian, B., Sarkar, S., Balu, A., & Krishnamurthy, A. (2023). Deep learning-based 3D multigrid topology optimization of manufacturable designs. Engineering Applications of Artificial Intelligence."
+        - "Balu, A., Rajanna, M.R., Khristy, J., Xu, F., Krishnamurthy, A., & Hsu, M.C. (2023). Direct immersogeometric fluid flow and heat transfer analysis of objects represented by point clouds. Computer Methods in Applied Mechanics and Engineering, 404(115742)."
+        - "Feng, J., Saadati, M., Jubery, T., Jignasu, A., Balu, A., Li, Y., Attigala, L., Schnable, P., Sarkar, S., Ganapathysubramanian, B., & Krishnamurthy, A. (2023). 3D reconstruction of plants using probabilistic voxel carving. Computers and Electronics in Agriculture, 213, 108248."
+    
+    - year: 2022
+      items:
+        - "Jiang, Z., Lee, X.Y., Tan, S.Y., Tan, K.L., Balu, A., Lee, Y.M., Hegde, C., & Sarkar, S. (2022). MDPGT: Momentum-based Decentralized Policy Gradient Tracking. Proceeding of AAAI Conference on Artificial Intelligence."
+    
+    - year: 2021
+      items:
+        - "Cho, M., Balu, A., Joshi, A., Prasad, A.D., Khara, B., Sarkar, S., Ganapathysubramanian, B., Krishnamurthy, A., & Hegde, C. (2021). Differentiable Spline Approximations. Proceedings of the Neural Information Processing Systems."
+        - "Esfandiari, Y., Tan, S.Y., Jiang, Z., Balu, A., Herron, E., Hegde, C., & Sarkar, S. (2021). Cross-gradient Aggregation for Decentralized Learning from Non-IID Data. Proceedings of the 38th International Conference on Machine Learning, 3036-3046."
+        - "Balu, A., Ghadai, S., Young, G., Sarkar, S., & Krishnamurthy, A. (2021). A machine learning framework for decision support in design and manufacturing. Advances in Computing and Information in Engineering (ACIER), 2, 479-498."
+
+- title: Professional Service
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Editorial Service
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Associate Editor, Journal of Intelligent Manufacturing
+    
+    - title: Reviewer for Journals
       items:
-        - Description 1.
-        - Description 2.
+        - IEEE Transactions on Pattern Analysis and Machine Intelligence
+        - Journal of Intelligent Manufacturing
+        - Scientific Reports
+        - Computer-aided Design
+        - Journal of Mechanical Design
+        - Engineering Applications of Artificial Intelligence
+        - Computers & Graphics
+        - Engineering with Computers
+        - IEEE Transactions on Neural Networks and Learning Systems
+        - Expert Systems with Applications
+        - Intelligent Automation & Soft Computing
+        - Advances in Engineering Software
+        - Applied Engineering in Agriculture
+    
+    - title: Conference Review
+      items:
+        - International Conference on Machine Learning (ICML) 2023
+        - Neural Information Processing Systems (NeurIPS) 2023
+        - Machine Learning for Cyber-Agricultural Systems (MLCAS) 2019, 2022
+        - Symposium on Solid and Physical Modeling (2019, 2022)
+    
+    - title: Organizing Committee
+      items:
+        - Federated Learning and Analytics in Practice Workshop at ICML 2023 (Program Committee)
+        - AAAI 2023 workshop on AI-for Agriculture and Food Systems
+        - Minisymposium on "Scientific Machine Learning for Computational Mechanics" in USNCCM 17
+        - Machine Learning for Cyber-Agricultural Systems (MLCAS 2022)
+        - TrAC Workshop on Scientific Machine Learning (April 2022)
+        - CVPR 2020 workshop on Deep Learning for Geometric Shape Understanding
+        - ICCV 2021 workshop on Deep Learning for Geometric Computing
+        - AAAI 2022 workshop on AI-based Design and Manufacturing
+    
+    - title: Tutorials Organized
+      items:
+        - "A TrAC Tutorial on 'Demystifying trending AI techniques', Ames, IA (April 2023)"
+        - "'A Deep Dive into Deep Learning: Architectures and Algorithms' tutorial at Midwest Big Data Summer School, Ames, IA (May 2022)"
+        - "A TrAC, CyVerse and Jetstream2 Tutorial on 'Intro to cloud-based Deep Learning', virtual (April 2022)"
+        - "SC 21 Tutorial on 'Scientific Machine Learning Using HPC Servers on the Cloud'"
+        - "CVPR 2021 Tutorial on 'Distributed Deep Learning on HPC servers for Large Scale Computer Vision Applications'"
+        - "An 'Hands on session for Implementing Deep Learning for Computer Vision applications' tutorial at Midwest Big Data Summer School, Ames, IA (May 2021)"
+        - "An 'Intro to Deep Learning' course at Air Force Research Lab, Dayton, OH (Dec 2020)"
+        - "An 'Intro to Deep Learning' tutorial at Midwest Big Data Summer School, Ames, IA (May 2017)"
 
-- title: Other Interests
-  type: list
+- title: Invited Talks
+  type: time_table
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: "Enhancing AI with Domain Knowledge: Lessons from Some Anecdotal Science and Engineering Applications"
+      institution: INSOFE Hyderabad Campus
+      year: 2023
+    
+    - title: "Communication Efficient Decentralized Deep Learning for Agricultural Applications"
+      institution: Iowa State University, Translational AI Center Weekly Seminar Series
+      year: 2022
+    
+    - title: "Enhancing Deep Learning Models with Geometry and Physics Priors"
+      institution: University of Missouri, St. Louis, CS Department Colloquium Series
+      year: Nov 2022
+    
+    - title: "AI in Mechanical Engineering"
+      institution: University of Wyoming, Mechanical Engineering Undergrad Class
+      year: 2022
+
+- title: Technical Skills
+  type: nested_list
+  contents:
+    - title: Programming Languages
+      items:
+        - Python, C++, CUDA, JavaScript, MATLAB, R
+    
+    - title: Machine Learning & AI
+      items:
+        - PyTorch, TensorFlow, scikit-learn, Keras, OpenCV, Transformers, Diffusion Models
+    
+    - title: High-Performance Computing
+      items:
+        - CUDA, MPI, OpenMP, GPU Computing, HPC Cluster Management
+    
+    - title: CAD & Engineering Software
+      items:
+        - SolidWorks, ANSYS, FEA, CFD
+    
+    - title: Data Analysis & Visualization
+      items:
+        - Pandas, NumPy, Matplotlib, Plotly, Paraview, VTK
