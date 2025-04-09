@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  Data Scientist • <a href='https://www.iastate.edu/'>Iowa State University</a>
+subtitle: Data Scientist • <a href='https://www.iastate.edu/'>Iowa State University</a>
 
 profile:
   align: right

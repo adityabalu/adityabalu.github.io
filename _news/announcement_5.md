@@ -13,6 +13,7 @@ I'm excited to announce that our team has been awarded a significant NSF grant t
 The project "CPS: Medium: Artificial-intelligence-enabled Atomic Force Microscopy" aims to revolutionize how atomic force microscopy (AFM) systems operate by integrating advanced AI techniques. AFM is a critical tool in nanotechnology research, but current systems face limitations in speed, resolution, and adaptability.
 
 Our interdisciplinary team includes:
+
 - Prof. Juan Ren (PI)
 - Prof. Adarsh Krishnamurthy (Co-PI)
 - Prof. Anwesha Sarkar (Co-PI)
