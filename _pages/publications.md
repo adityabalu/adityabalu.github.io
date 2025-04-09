@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: Publications by Aditya Balu in reverse chronological order. For the most up-to-date list, visit <a href="https://scholar.google.com/citations?user=GNuXi6oAAAAJ&hl=en" target="_blank">Google Scholar</a>.
 nav: true
 nav_order: 2

@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Data Scientist • <a href='https://www.iastate.edu/'>Iowa State University</a>
 
@@ -9,7 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>3222 Lincoln Way, Unit 9</p>
+    <p>1111 Woi Rd</p>
+    <p>0035A Roy J Carver Colab</p>
     <p>Ames, IA 50014</p>
     <p>Email: baditya@iastate.edu</p>
     <p>Phone: +1-336-446-9900</p>
@@ -50,6 +51,6 @@ Prior to my current academic roles, I worked as:
 - **Machine Learning Co-op**, Ansys Inc., Pittsburgh, PA (July 2018 - Dec 2018)
 - **Design Engineer - I**, FMC Technologies (now TechnipFMC), Hyderabad, India (July 2014 - July 2016)
 
-I currently have an impressive research output with over 1500 citations and an h-index of 18. My work spans across machine learning for computational mechanics, deep learning for engineering applications, and GPU acceleration of scientific computing algorithms.
+I currently have over 1500 citations and an h-index of 18. My work spans across machine learning for computational mechanics, deep learning for engineering applications, and GPU acceleration of scientific computing algorithms.
 
-Check out my [research projects](/projects/), [publications](/publications/), and [CV](/cv/) for more details!
+Check out my [research projects](/projects/) (To be updated), [publications](/publications/), and [CV](/cv/) for more details!

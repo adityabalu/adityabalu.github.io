@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Courses, workshops, and educational resources developed by Aditya Balu
 nav: true
 nav_order: 6
